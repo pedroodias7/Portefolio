@@ -1,0 +1,16 @@
+D:\C#\MyProjects\bin\Debug\net5.0\MyProjects.exe
+D:\C#\MyProjects\bin\Debug\net5.0\MyProjects.deps.json
+D:\C#\MyProjects\bin\Debug\net5.0\MyProjects.runtimeconfig.json
+D:\C#\MyProjects\bin\Debug\net5.0\MyProjects.runtimeconfig.dev.json
+D:\C#\MyProjects\bin\Debug\net5.0\MyProjects.dll
+D:\C#\MyProjects\bin\Debug\net5.0\ref\MyProjects.dll
+D:\C#\MyProjects\bin\Debug\net5.0\MyProjects.pdb
+D:\C#\MyProjects\obj\Debug\net5.0\MyProjects.csproj.AssemblyReference.cache
+D:\C#\MyProjects\obj\Debug\net5.0\MyProjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\MyProjects\obj\Debug\net5.0\MyProjects.AssemblyInfoInputs.cache
+D:\C#\MyProjects\obj\Debug\net5.0\MyProjects.AssemblyInfo.cs
+D:\C#\MyProjects\obj\Debug\net5.0\MyProjects.csproj.CoreCompileInputs.cache
+D:\C#\MyProjects\obj\Debug\net5.0\MyProjects.dll
+D:\C#\MyProjects\obj\Debug\net5.0\ref\MyProjects.dll
+D:\C#\MyProjects\obj\Debug\net5.0\MyProjects.pdb
+D:\C#\MyProjects\obj\Debug\net5.0\MyProjects.genruntimeconfig.cache
